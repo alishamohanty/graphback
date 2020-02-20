@@ -15,9 +15,9 @@
 
     "graphql": "14.6.0",
     "tslint": "5.20.1",
-    "typescript": "3.7.5"
+    "typescript": "3.8.2"
   },
   "dependencies": {
-    "pg": "7.18.1"
+    "pg": "7.18.2"
   }
 }
